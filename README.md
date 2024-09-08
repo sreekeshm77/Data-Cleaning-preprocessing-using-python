@@ -1,7 +1,7 @@
 Project Title: Data Cleaning and Processing
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tools Utilized: Python, NumPy, Pandas, Matplotlib, Seaborn
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Project Summary:
 
 I undertook the task of improving the quality and reliability of a dataset used in data analytics. The project involved several key steps:
